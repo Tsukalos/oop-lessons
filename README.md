@@ -11,4 +11,4 @@ For now, the material is in portuguese, bit will be translated to English in the
 - [Lesson 2(portuguese)](https://drive.google.com/open?id=1e3FXSl0gnQ9R5a7iROosp1wTdEJiz1NC93Fbw6S0hsM)
 
 #### Support Material:
--[Lesson 1(portuguese](https://drive.google.com/open?id=1asLD1fBZnGLibR7zfUXm3dEemawoaAXrPSIc5c0ubDY)
+-[Lesson 1(portuguese)](https://drive.google.com/open?id=1asLD1fBZnGLibR7zfUXm3dEemawoaAXrPSIc5c0ubDY)
